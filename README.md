@@ -1,1 +1,1 @@
-# edgeledger_website
+# Semi-Responsive Edgeledger Website
