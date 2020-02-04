@@ -34,7 +34,8 @@
   }
 
   #showcase .showcase-content {
-    top: 110px;
+    top: auto;
+    bottom: auto;
   }
 
   #who {
